@@ -7,6 +7,6 @@ package myprojboot;
  * @author utilisateur
  *
  */
-public class yeeah {
-
+public int class yeeah {
+return 0;
 }
